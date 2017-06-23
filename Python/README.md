@@ -1,6 +1,8 @@
-# HI MOM
+# Plotting in Python
 
 
-![Sample Dash App](plots/Python/lp.png)
+
 ![Sample Dash App](https://github.com/cmutnik/plots/blob/master/Python/lp.png)
-![Sample Dash App](https://github.com/cmutnik/plots/Python/lp.png)
+!(https://github.com/cmutnik/plots/blob/master/Python/lp.png)
+![](https://github.com/cmutnik/plots/blob/master/Python/lp.png)
+![Foo](https://github.com/cmutnik/plots/blob/master/Python/lp.png)
