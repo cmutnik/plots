@@ -22,6 +22,9 @@ plt.xlabel("X")
 plt.ylabel("Y")
 plt.title("First Plot")
 
+# turn on grid
+plt.grid(True)
+
 plt.plot(x,y,"ok-") # plot data: 
                         # x vs y
                         # "k" designates the color as black
