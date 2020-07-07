@@ -26,6 +26,6 @@ Seaborn makes matplotlib a bit more professional looking.  While seaborn offers 
 import seaborn as sns
 sns.set()
 ```
-These two lines of code change the plotting style.  The script [`yahoo_finance.py`](./yahoo_finance.py) uses seaborn to make the following plot:
+These two lines of code change the plotting style.  The script [`yahoo_finance.py`](./seaborn/yahoo_finance.py) uses seaborn to make the following plot:
 
-![](figs/finance_seaborn.png)
+![](./seaborn/figs/finance_seaborn.png)
