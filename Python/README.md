@@ -16,4 +16,5 @@ The script [`xkcd_style.py`](./xkcd_style.py) shows how to plot using the xkcd s
 plt.xkcd()
 ```
 allows you to make plots like the one shown here:
+
 ![](./figs/XKCD_plot.png)
